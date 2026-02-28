@@ -7,7 +7,7 @@
   - ⛏️ __[StopGame Parser](https://github.com/CoinGH/StopGameExporter).__
 - 🌱 I’m currently learning Python, C++, etc...
 - 👯 I’m taking part in some GameJams like __[GamesNow!](https://github.com/Ja-Jau/GN-GameJam-2025).__
-- ⚡ A quote for now: _Your past is just a story. And once you realize this, it has no power over you..._
+- ⚡ A quote for now: _"Your past is just a story. And once you realize this, it has no power over you..."_
 <!--
 **CoinGH/CoinGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
