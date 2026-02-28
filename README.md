@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm currently studing ✨Computer Science✨ since 2025.
+### I'm currently studying ✨Computer Science✨ since 2025.
 
 - 🔭 I’m making some pet projects:
   - 🎖️ __[Obsidian Anonymizer](https://github.com/CoinGH/obsidian-anonymizer).__
