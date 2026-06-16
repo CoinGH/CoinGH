@@ -6,8 +6,8 @@
   - 🎖️ __[Obsidian Anonymizer](https://github.com/CoinGH/obsidian-anonymizer).__
   - ⛏️ __[StopGame Parser](https://github.com/CoinGH/StopGameExporter).__
 - 🌱 I’m currently learning Python, C++, etc...
-- 👯 I took part in __[GlobalGameJamNext](https://github.com/CoinGH/EcoGame).__
-- ⚡ A quote for now: _"Your past is just a story. And once you realize this, it has no power over you..."_
+- 👯 I took part in __[GlobalGameJamNext](https://github.com/CoinGH/EcoGame), [GamesNow!](https://github.com/Ja-Jau/GN-GameJam-2025).__
+- ⚡___Blended Intensive Programme_ (BIP) in Oulu, Finland. OAMK. Game: ["Apart"](https://github.com/IsakBerglund/OuluGameJamYippie).__
 <!--
 **CoinGH/CoinGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
