@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Andrii Traitaka! 👋
 
 ### I'm currently studying ✨Computer Science✨ since 2025.
 
